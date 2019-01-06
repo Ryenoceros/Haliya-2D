@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: e671cb787d8bd534c8155d8f8b27d260
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Haliya Shield spritesheet_0
+    21300002: Haliya Shield spritesheet_1
+    21300004: Haliya Shield spritesheet_2
+    21300006: Haliya Shield spritesheet_3
+    21300008: Haliya Shield spritesheet_4
+    21300010: Haliya Shield spritesheet_5
+    21300012: Haliya Shield spritesheet_6
+    21300014: Haliya Shield spritesheet_7
+    21300016: Haliya Shield spritesheet_8
+    21300018: Haliya Shield spritesheet_9
+    21300020: Haliya Shield spritesheet_10
+    21300022: Haliya Shield spritesheet_11
+    21300024: Haliya Shield spritesheet_12
+    21300026: Haliya Shield spritesheet_13
+    21300028: Haliya Shield spritesheet_14
+    21300030: Haliya Shield spritesheet_15
+    21300032: Haliya Shield spritesheet_16
+    21300034: Haliya Shield spritesheet_17
+    21300036: Haliya Shield spritesheet_18
+    21300038: Haliya Shield spritesheet_19
+    21300040: Haliya Shield spritesheet_20
+    21300042: Haliya Shield spritesheet_21
+    21300044: Haliya Shield spritesheet_22
+    21300046: Haliya Shield spritesheet_23
+    21300048: Haliya Shield spritesheet_24
+    21300050: Haliya Shield spritesheet_25
+    21300052: Haliya Shield spritesheet_26
+    21300054: Haliya Shield spritesheet_27
+    21300056: Haliya Shield spritesheet_28
+    21300058: Haliya Shield spritesheet_29
+    21300060: Haliya Shield spritesheet_30
+    21300062: Haliya Shield spritesheet_31
+    21300064: Haliya Shield spritesheet_32
+    21300066: Haliya Shield spritesheet_33
+    21300068: Haliya Shield spritesheet_34
+    21300070: Haliya Shield spritesheet_35
+    21300072: Haliya Shield spritesheet_36
+    21300074: Haliya Shield spritesheet_37
+    21300076: Haliya Shield spritesheet_38
+    21300078: Haliya Shield spritesheet_39
+    21300080: Haliya Shield spritesheet_40
+    21300082: Haliya Shield spritesheet_41
+    21300084: Haliya Shield spritesheet_42
+    21300086: Haliya Shield spritesheet_43
+    21300088: Haliya Shield spritesheet_44
+    21300090: Haliya Shield spritesheet_45
+    21300092: Haliya Shield spritesheet_46
+    21300094: Haliya Shield spritesheet_47
+    21300096: Haliya Shield spritesheet_48
+    21300098: Haliya Shield spritesheet_49
+    21300100: Haliya Shield spritesheet_50
+    21300102: Haliya Shield spritesheet_51
+    21300104: Haliya Shield spritesheet_52
+    21300106: Haliya Shield spritesheet_53
+    21300108: Haliya Shield spritesheet_54
+    21300110: Haliya Shield spritesheet_55
+    21300112: Haliya Shield spritesheet_56
+    21300114: Haliya Shield spritesheet_57
+    21300116: Haliya Shield spritesheet_58
+    21300118: Haliya Shield spritesheet_59
+    21300120: Haliya Shield spritesheet_60
+    21300122: Haliya Shield spritesheet_61
+    21300124: Haliya Shield spritesheet_62
+    21300126: Haliya Shield spritesheet_63
+    21300128: Haliya Shield spritesheet_64
+    21300130: Haliya Shield spritesheet_65
+    21300132: Haliya Shield spritesheet_66
+    21300134: Haliya Shield spritesheet_67
+    21300136: Haliya Shield spritesheet_68
+    21300138: Haliya Shield spritesheet_69
+    21300140: Haliya Shield spritesheet_70
+    21300142: Haliya Shield spritesheet_71
+    21300144: Haliya Shield spritesheet_72
+    21300146: Haliya Shield spritesheet_73
+    21300148: Haliya Shield spritesheet_74
+    21300150: Haliya Shield spritesheet_75
+    21300152: Haliya Shield spritesheet_76
+    21300154: Haliya Shield spritesheet_77
+    21300156: Haliya Shield spritesheet_78
+    21300158: Haliya Shield spritesheet_79
+    21300160: Haliya Shield spritesheet_80
+    21300162: Haliya Shield spritesheet_81
+    21300164: Haliya Shield spritesheet_82
+    21300166: Haliya Shield spritesheet_83
+    21300168: Haliya Shield spritesheet_84
+    21300170: Haliya Shield spritesheet_85
+    21300172: Haliya Shield spritesheet_86
+    21300174: Haliya Shield spritesheet_87
+    21300176: Haliya Shield spritesheet_88
+    21300178: Haliya Shield spritesheet_89
+    21300180: Haliya Shield spritesheet_90
+    21300182: Haliya Shield spritesheet_91
+    21300184: Haliya Shield spritesheet_92
+    21300186: Haliya Shield spritesheet_93
+    21300188: Haliya Shield spritesheet_94
+    21300190: Haliya Shield spritesheet_95
+    21300192: Haliya Shield spritesheet_96
+    21300194: Haliya Shield spritesheet_97
+    21300196: Haliya Shield spritesheet_98
+    21300198: Haliya Shield spritesheet_99
+    21300200: Haliya Shield spritesheet_100
+    21300202: Haliya Shield spritesheet_101
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 785
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8f7b354e1a9747ad3e36d124088e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 785
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7667533427f7ab4d863ee42edd52ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 785
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a698978ad2b342aab89235a88adcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 785
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd775678e161545aa7f6a9e888bff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 785
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ecb904a8c0354c9cb0d4da73a2e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 785
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dfffef3f450ed4686267bdd360f8e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99e0105f51ad04abf867d162f7bbaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa11e608281ca74bb9a646031dc2f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 657
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0da3aca8c9367448caccb3ac350fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 657
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1509a98013a70d4b8a183edf86996b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 657
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8d423c40b9aa41b3ab47666916678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 657
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be561cb04bdc2e4a8e52c7e8ac9a22a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 564
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c0ba3f815f96a418381d90a174dfe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 580
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12060a2bc10043346a82a4e15706b761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 524
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b3cdc26beb914ea69d1528c1b2e2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 525
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83487a65434615d428fcc22ec15ed60e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 525
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6869f878ca93b184abcc1d90e06810a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 529
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec15f7f2fffcf149a0ccb0c9ae0cece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 529
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e546f80d8c39a4eb5c572e928aa46e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 525
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14081705fb8b9284cbd26883deddecd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 566
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e29e04873f314ea92e32336a5bf3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 544
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8504d7ad47ea5174e9c2ee3900f6c290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 534
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a5d58846733e4281748bee4a95afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 548
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcc7653b6c483c49b8006a8a6d8932b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 526
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8384c23ee78d45a2787e39de05db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 398
+        width: 103
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc883988aeb89e44daea359ffe911702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 443
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1159fa31712610f41a38704b7f2ab073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 441
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e2ad83134ca2542a76f44f13df7895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 459
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a128656514d0e942a123f54ef6a957f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 462
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d0926e1a3c0c747b4b4787a464d5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 397
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1224e2b54a9a41b55b3e558b52c5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 397
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04683f80e091b344e912a6b5164d34eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 397
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74deafba6aff11340856d1b441fa9f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 434
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644f4982713c8ae4c8b186ff41421f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 438
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9169d412bb808942988420a68f09e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 397
+        width: 122
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea786852b116447af97702f4ab9dbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87e678833556e4c96c26927a3d92a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 444
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55d489cac81b5c46835b108c18f2d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 394
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed897f14bd88d614593bf76dd8a21b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 449
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab95cb5df49d4c4e95e1b856ab11658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 417
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc262fe3215eb0745b9dcf3755d93f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 425
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4977311abcb07d47a3fde6faf77a030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 417
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadf188003b27084c91c272fe54cff0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 428
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275a65deb6e43494c8475714f5605543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 418
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12948a3a1c72a74096b811d5975eace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 433
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5024ec546305fcb4aba628566e1149d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed2f6dd1184a843a2b6b24cba4ead1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 400
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30812b60269b7ec408895c4fe0bbb4b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 398
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0aacadc9064744f9aaff882b79a5f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 400
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5798a9722706aa4b862cd1c4b8a37ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 398
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed9dae1421fb240bd66499deb721f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 400
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f770241f83a6f649852f7102cf9afe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d689d4e1c81f1340867bdf7a0eb3511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 292
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a37ce6d27af15479c7a89cc7f23cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 317
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b8f389100db1e4d836ecbaf3938d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 336
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1f1f517676e754bb878ab9d10de02c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c333425e6f59104083dd9d268121384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 325
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1cfe7fee8ce449861110bf34853e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 309
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d117d9e2b21315489ed4d1b4b304ec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 272
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df8582a456b52c4d98e0e175d11420c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 260
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c858957a4bba49866a8df22c359ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 292
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972e6725f8937846bdd18a9f0118b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 272
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c3d15f1fbbf9438248749b4396517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 254
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf55b7f27237a48ade293ffe0026ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 286
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0e5cd533e40594f8e9dd99a806f6c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 277
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447249aa82142ef4496895aed2fb2c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974a517a3dc9204fb4a6e091282930c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 296
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f09a189b20f7447903c2ba922c8c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 277
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124dc3654ea5c9419beb880bae868b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 264
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c28ffe98178cf046b239e7ec336e78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 254
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e323727c0a90f54a80c7b77c835950d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 257
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150125487c30dd4189dc663fdbf21fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 302
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e4a6fdc011084698f145e0ddc5940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 272
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85332399629168a4d99a71b809fe7af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 258
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054a66d165fbbf4a91997d2e9c06d2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 257
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6c3eb69dc1794aa157437d6ddd351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 272
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e43a93f65d024fb2785eff2684e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 254
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089b0849aca2244cbff5ad7e55a0fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 264
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b8a22d77a98444a37574fc1f34a54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 257
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1286080233ae9449b206441c060a77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 258
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22597cf290735a64bbdfe54431ae72e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0af1ec1ca2c4f4ba67f3fd3b021ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563edd1c3881347459f5ccbcd6ff0b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 129
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d011cea86da604bbb4c0014769bd3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 129
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ab0805cc11414bb1853ac192eecef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 128
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdef6cae6eb70345b9a4e001ece5eb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 144
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176b064ffda1944891275facaba8481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 168
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159f8f05f12974a419272e3f6135f29a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 127
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9122f09c513c8409ff47b9551b421c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 174
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e912708fe8e141a9a174047154a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 144
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9a21795bfb1bf4d9b0cf383c06d0d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 151
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49203ea5ed0365749a975976f197e00c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 149
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2746d579bfe1b6043bffb0777dfa2870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 129
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15be830fd7e87140b856ec75c3dd1d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 136
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ad4f4e061d29448d5f809269eb361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 129
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed15df1706226874b93ff3274741cd13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 130
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c89e1c2b3fb549b736a675790fa7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a7de2833e3639429933c69b2b9a9f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739e5a8eea43234b8f9fa0a8ac12179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c866fa37477d4e419a888116fa1949c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf9422b1bc177a458353e624eb3fa48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Shield spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97237cad53ea9ca4b84a53479d452c6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e969b346f5ead5409ee599aeb2d3c32
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

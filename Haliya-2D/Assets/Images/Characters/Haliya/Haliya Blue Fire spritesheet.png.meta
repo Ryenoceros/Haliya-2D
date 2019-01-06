@@ -1,0 +1,1895 @@
+fileFormatVersion: 2
+guid: 32f8cb792516ea14dbc0065479ec5dc9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Haliya Blue Fire spritesheet_0
+    21300002: Haliya Blue Fire spritesheet_1
+    21300004: Haliya Blue Fire spritesheet_2
+    21300006: Haliya Blue Fire spritesheet_3
+    21300008: Haliya Blue Fire spritesheet_4
+    21300010: Haliya Blue Fire spritesheet_5
+    21300012: Haliya Blue Fire spritesheet_6
+    21300014: Haliya Blue Fire spritesheet_7
+    21300016: Haliya Blue Fire spritesheet_8
+    21300018: Haliya Blue Fire spritesheet_9
+    21300020: Haliya Blue Fire spritesheet_10
+    21300022: Haliya Blue Fire spritesheet_11
+    21300024: Haliya Blue Fire spritesheet_12
+    21300026: Haliya Blue Fire spritesheet_13
+    21300028: Haliya Blue Fire spritesheet_14
+    21300030: Haliya Blue Fire spritesheet_15
+    21300032: Haliya Blue Fire spritesheet_16
+    21300034: Haliya Blue Fire spritesheet_17
+    21300036: Haliya Blue Fire spritesheet_18
+    21300038: Haliya Blue Fire spritesheet_19
+    21300040: Haliya Blue Fire spritesheet_20
+    21300042: Haliya Blue Fire spritesheet_21
+    21300044: Haliya Blue Fire spritesheet_22
+    21300046: Haliya Blue Fire spritesheet_23
+    21300048: Haliya Blue Fire spritesheet_24
+    21300050: Haliya Blue Fire spritesheet_25
+    21300052: Haliya Blue Fire spritesheet_26
+    21300054: Haliya Blue Fire spritesheet_27
+    21300056: Haliya Blue Fire spritesheet_28
+    21300058: Haliya Blue Fire spritesheet_29
+    21300060: Haliya Blue Fire spritesheet_30
+    21300062: Haliya Blue Fire spritesheet_31
+    21300064: Haliya Blue Fire spritesheet_32
+    21300066: Haliya Blue Fire spritesheet_33
+    21300068: Haliya Blue Fire spritesheet_34
+    21300070: Haliya Blue Fire spritesheet_35
+    21300072: Haliya Blue Fire spritesheet_36
+    21300074: Haliya Blue Fire spritesheet_37
+    21300076: Haliya Blue Fire spritesheet_38
+    21300078: Haliya Blue Fire spritesheet_39
+    21300080: Haliya Blue Fire spritesheet_40
+    21300082: Haliya Blue Fire spritesheet_41
+    21300084: Haliya Blue Fire spritesheet_42
+    21300086: Haliya Blue Fire spritesheet_43
+    21300088: Haliya Blue Fire spritesheet_44
+    21300090: Haliya Blue Fire spritesheet_45
+    21300092: Haliya Blue Fire spritesheet_46
+    21300094: Haliya Blue Fire spritesheet_47
+    21300096: Haliya Blue Fire spritesheet_48
+    21300098: Haliya Blue Fire spritesheet_49
+    21300100: Haliya Blue Fire spritesheet_50
+    21300102: Haliya Blue Fire spritesheet_51
+    21300104: Haliya Blue Fire spritesheet_52
+    21300106: Haliya Blue Fire spritesheet_53
+    21300108: Haliya Blue Fire spritesheet_54
+    21300110: Haliya Blue Fire spritesheet_55
+    21300112: Haliya Blue Fire spritesheet_56
+    21300114: Haliya Blue Fire spritesheet_57
+    21300116: Haliya Blue Fire spritesheet_58
+    21300118: Haliya Blue Fire spritesheet_59
+    21300120: Haliya Blue Fire spritesheet_60
+    21300122: Haliya Blue Fire spritesheet_61
+    21300124: Haliya Blue Fire spritesheet_62
+    21300126: Haliya Blue Fire spritesheet_63
+    21300128: Haliya Blue Fire spritesheet_64
+    21300130: Haliya Blue Fire spritesheet_65
+    21300132: Haliya Blue Fire spritesheet_66
+    21300134: Haliya Blue Fire spritesheet_67
+    21300136: Haliya Blue Fire spritesheet_68
+    21300138: Haliya Blue Fire spritesheet_69
+    21300140: Haliya Blue Fire spritesheet_70
+    21300142: Haliya Blue Fire spritesheet_71
+    21300144: Haliya Blue Fire spritesheet_72
+    21300146: Haliya Blue Fire spritesheet_73
+    21300148: Haliya Blue Fire spritesheet_74
+    21300150: Haliya Blue Fire spritesheet_75
+    21300152: Haliya Blue Fire spritesheet_76
+    21300154: Haliya Blue Fire spritesheet_77
+    21300156: Haliya Blue Fire spritesheet_78
+    21300158: Haliya Blue Fire spritesheet_79
+    21300160: Haliya Blue Fire spritesheet_80
+    21300162: Haliya Blue Fire spritesheet_81
+    21300164: Haliya Blue Fire spritesheet_82
+    21300166: Haliya Blue Fire spritesheet_83
+    21300168: Haliya Blue Fire spritesheet_84
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d4bb49ae39fb4e955cf99398cc515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5803b3d512cfc9f4993785cb1b1f5764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0f424d4ae5fd044b828ac0d957f227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f13f5aadc3b3bb479fd65e1d2482ad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9481ec5fcebce4ebfcde93bd589f23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 657
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d27930940b8734b9bc9e7cac8d1f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 529
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c41e695129ad3040990969bd8973a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 529
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d2ae9c210e384e8530990bbd030fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 529
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f2ee3250a11914f845a67a875e0298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 529
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e22cc11c455f5748ac9655cc7ac2fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 529
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455b4d84ca860345889f59f33835a62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 529
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92334a5a27599b04bbb9f073f5135957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 401
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868eb0eef8385bf4a8819e9ded6c5113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 401
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a7774413afdd489426381459caf94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 401
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41da87a7331cb0a4e860c8d5176001e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 401
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e0995ad41e9a438a4c0b6df61e4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 401
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f630e0e158f9654c83333122d4eca4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 401
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce879422386f26a4aa523463342abf9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 273
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45284e74f15d37249b89f5e308c1731a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 273
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a4e1eed43fd548af39db648826ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 273
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeb4127460bbed458539a35fffa66c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 273
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018765c19c23e348a094a1def919210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 273
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96da90cf3d82743a5b3c8f7b0d64ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 330
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc5db504a158f8449f3c357dd7fb794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 324
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a4bd0a682c705498c6bfabda0c4eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 273
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c4c94fc9a3664d895e597e2b53288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 145
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171dd8e2c3f2eb49ac23079e70ffd56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 145
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76bcd24d6cdeeb4c93eff32ad533efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 145
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e236a708df19cc499b2736efd664f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 145
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36c9fd7d7920a45b3101c4b98de370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 140
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d82b4eb7d15e8b43bca7e999ceaad78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 176
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37808868f11bdb458a10d38e2bfb42c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 135
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ad0e75fb85ec46b47a7af3d545ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 19
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcc684592244d84bbd2413dd1585e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 18
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e1746cdc653f458f9c921ee30ef6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe40ecb42656bf45b04fbb5c9a77a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 107
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7968805474c2d3458de917169965cff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 84
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f2a11a6818e2044b1cc501de57b7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 101
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918bc24cbf1c06b4ba66608deaa8d0e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 109
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95df482f8a82e2349ae23d677cd37082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 85
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7886d9387cebb045a3e0f7e280901a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 101
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae2d398cdce004ba2f42ecf28d27d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 78
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e692ba886571834aa62505d7b7686eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 88
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db86f9b1170b604a98bfe39e6033a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 94
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7995003fb6b544a228df31936c201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 88
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe3ea4d7b82db429f974220b4a962f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 82
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776a36ee64bda604b98ee5e6085292f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 10
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b92e40efb9d8478e63702e17cec40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 7
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b10e7d0fb6ae49489c4d883cd536dd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 54
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a0518950ed35540a6bb1b41804bbd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0452bc30c0bb4e44990fe2a8c8342d30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 75
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0306cd695e9c348aee414c666434ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 10
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff2e41730658f4b98aa99da00e1fd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 62
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ba801d51c88d42a4fb306e7c27929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 70
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae06661965b11644bc19b43ecb96e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc5d16c163ad714bbae7de302a28be5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ba6a99cd8d9de4896323953604cabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 16
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e93b542e0dae8144b559dc83de886b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 36
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72a7e0dba68fa4996a9750b47cf62b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 23
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121a281708f47144289785a739333595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96035d64fb70b448c50567a612b373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adfa7b082fd78743ae919b331f88583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 16
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da4d0e15747c2479af87ac263f0f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e9aa51025620408a4cafa1db417c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be8616cd5953a843b10df002b4e19df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 33
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4016f9aad31d4f459be3b6d480644c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53622c91c32284c97b730fc131aeca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596676572b431c47a945fca72227a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 28
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b407288ffc95a498d05555248195c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 10
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c5fb244dbbeb4489b970a7730af66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 10
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f25694d58f5f46b55a929c5894596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 20
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea2489df7ba144094ca32f77eb691c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 20
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee912f67af8f34e84629d71b1ba33c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 22
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8d22ace4858b345b1662fe5221263b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9ed1f25b6355442ac0855db331af87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11b61c531ab2c048933349ab890fd5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d75975f2804a448bd2bf8f77886fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed35563e94ae6744b35c9c08047a268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535abcf192e168b48aebfd6717c754b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f2d0bd6aeb684897124357054261b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad77073731f633242af3b69eec91d78f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 16
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3f1644597daa4ab41a5102d8fc916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f122e708cfe0d6143b6b5e51214d168c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10380a49c5069bf4894b03f443558e1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haliya Blue Fire spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 10
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd857862a2318d14eb91216f2827dab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2bf1c24c5abb2d747b505cab30c579ec
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
