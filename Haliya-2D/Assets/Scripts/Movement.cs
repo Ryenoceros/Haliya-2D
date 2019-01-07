@@ -42,7 +42,7 @@ public class Movement : MonoBehaviour
     		rb2d.velocity = new Vector2(maxSpeed, rb2d.velocity.y);
     	}
 
-    	if (rb2d,velocity.x < -maxSpeed){
+    	if (rb2d.velocity.x < -maxSpeed){
     		rb2d.velocity = new Vector2(-maxSpeed, rb2d.velocity.y);
     	}
     }
