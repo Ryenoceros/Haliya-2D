@@ -27,6 +27,13 @@ public class Movement : MonoBehaviour
 
         anim.SetBool("Grounded",grounded);
         anim.SetFloat("Speed", Mathf.Abs(Input.GetAxis("Horizontal")));
+
+        if(Input.GetAxis("Horizontal") < -0.1f){
+        	transform.localScale = new Vector3(-1, 1, 1);
+        }
+        if(Input.GetAxis("Horizontal") > 0.1f){
+        	transform.localScale = new Vector3(1, 1, 1);
+        }
     }
 
     void FixedUpdate()
