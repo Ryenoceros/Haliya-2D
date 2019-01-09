@@ -80,7 +80,7 @@ AnimatorStateTransition:
   m_IsExit: 0
   serializedVersion: 3
   m_TransitionDuration: 0
-  m_TransitionOffset: 0.4642859
+  m_TransitionOffset: 1.0029927
   m_ExitTime: 1
   m_HasExitTime: 0
   m_HasFixedDuration: 1
@@ -105,7 +105,7 @@ AnimatorStateTransition:
   m_IsExit: 0
   serializedVersion: 3
   m_TransitionDuration: 0
-  m_TransitionOffset: 0.40624982
+  m_TransitionOffset: 0.9967553
   m_ExitTime: 1
   m_HasExitTime: 0
   m_HasFixedDuration: 1

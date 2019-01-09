@@ -412,7 +412,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 360579223}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.76, y: 6.49, z: -1.02}
+  m_LocalPosition: {x: 10.25, y: 11.7, z: -1.02}
   m_LocalScale: {x: 0.888, y: 0.888, z: 0.888}
   m_Children: []
   m_Father: {fileID: 0}
@@ -514,7 +514,7 @@ GameObject:
   - component: {fileID: 451635173}
   - component: {fileID: 451635172}
   m_Layer: 5
-  m_Name: MoveRight (4)
+  m_Name: Settings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -631,7 +631,7 @@ GameObject:
   - component: {fileID: 512828696}
   - component: {fileID: 512828695}
   m_Layer: 5
-  m_Name: MoveRight (1)
+  m_Name: RollBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -718,7 +718,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 9ade5e2e8f16c8b46839d61e444eb7c8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 32d68cb6a1d5280468e489941fca96db, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1148,7 +1148,7 @@ GameObject:
   - component: {fileID: 1051900077}
   - component: {fileID: 1051900076}
   m_Layer: 5
-  m_Name: MoveRight (2)
+  m_Name: JumpBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1962,7 +1962,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1838345019}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2a8aa5bacd62d1e4988433832c4dce2c, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2284,7 +2284,7 @@ GameObject:
   - component: {fileID: 2103653574}
   - component: {fileID: 2103653573}
   m_Layer: 5
-  m_Name: MoveRight (3)
+  m_Name: ShieldBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2297,13 +2297,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2103653571}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0.015489737, y: 0.0005466257, z: 0.71155363, w: 0.7024609}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 805125015}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 1.202, y: 1.307, z: 90.75101}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 360, y: -27}
@@ -2371,7 +2371,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 498bb0e42362b384e816d50107384f2b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a92a2870270952c4dace69e82e5524eb, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
