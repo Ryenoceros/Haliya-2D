@@ -2106,9 +2106,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfe4231a641532948869114ff72610d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 3
-  speed: 50
-  jumpPower: 150
+  maxSpeed: 5
+  speed: 100
+  jumpPower: 300
   grounded: 0
 --- !u!95 &1987967722
 Animator:
