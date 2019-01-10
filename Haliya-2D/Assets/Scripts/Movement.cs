@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-	public float maxSpeed = 3;
-	public float speed = 50f;
-	public float jumpPower = 150f;
+	public float maxSpeed = 5;
+	public float speed = 100f;
+	public float jumpPower = 300f;
 
 	public bool grounded;
 
@@ -26,7 +26,7 @@ public class Movement : MonoBehaviour
         //transform.position = transform.position + horizontal * Time.deltaTime;
 
         anim.SetBool("Grounded",grounded);
-        anim.SetFloat("Speed", Mathf.Abs(Input.GetAxis("Horizontal")));
+        anim.SetFloat("Speed", Mathf.Abs(rb2d.velocity.x));
 
         if(Input.GetAxis("Horizontal") < -0.1f){
         	transform.localScale = new Vector3(-1, 1, 1);
