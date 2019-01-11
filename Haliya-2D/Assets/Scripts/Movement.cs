@@ -7,6 +7,7 @@ public class Movement : MonoBehaviour
 	public float maxSpeed = 5;
 	public float speed = 100f;
 	public float jumpPower = 300f;
+	float hInput = 0;
 
 	public bool grounded;
 
@@ -37,17 +38,19 @@ public class Movement : MonoBehaviour
         }
 
         if(Input.GetButtonDown("Jump") && grounded){
-        	rb2d.AddForce(Vector2.up * jumpPower);
+        	
         }
 
     }
 
-    void FixedUpdate()
-    {
-    	float h = Input.GetAxis("Horizontal");
-
-    	//Moving the player
-    	rb2d.AddForce((Vector2.right * speed) * h);
+    void Move(float horizontalInput){
+    	if (horizontalInput < 0){
+    		transform.localScale = new Vector3(-1, 1, 1);
+    	}
+    	if (horizontalInput > 0){
+    		transform.localScale = new Vector3(1, 1, 1);
+    	}
+    	rb2d.AddForce((Vector2.right * speed) * horizontalInput);
 
     	//Limiting the speed of the player
     	if(rb2d.velocity.x > maxSpeed)
@@ -58,5 +61,24 @@ public class Movement : MonoBehaviour
     	if (rb2d.velocity.x < -maxSpeed){
     		rb2d.velocity = new Vector2(-maxSpeed, rb2d.velocity.y);
     	}
+
+    }
+
+    public void Jump(){
+    	if(grounded){
+    		rb2d.AddForce(Vector2.up * jumpPower);
+    	}
+    }
+
+    void FixedUpdate()
+    {
+    	float h = Input.GetAxis("Horizontal");
+
+    	//Moving the player
+    	Move (hInput);
+    }
+
+    public void StartMoving(float horizontalInput){
+    	hInput = horizontalInput;
     }
 }
