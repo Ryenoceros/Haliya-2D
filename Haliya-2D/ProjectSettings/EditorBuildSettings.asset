@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game/Kairaruman.unity
     guid: 28cbe3d4fcaba4042b5def7d651aa538
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/cutscene.unity
+    guid: 6de20adb7f1147540991b2d46f27c122
   m_configObjects: {}
