@@ -72,7 +72,17 @@ public class Movement : MonoBehaviour
 
     void FixedUpdate()
     {
+    	Vector3 easeVelocity = rb2d.velocity;
+    	easeVelocity.y = rb2d.velocity.y;
+    	easeVelocity.z = 0.0f;
+    	easeVelocity.x *= 0.75f;
+
     	float h = Input.GetAxis("Horizontal");
+
+    	//fake friction easing the x speed of our player
+    	if(grounded){
+    		rb2d.velocity = easeVelocity;
+    	}
 
     	//Moving the player
     	Move (hInput);
