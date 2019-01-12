@@ -4,12 +4,15 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+	//floats
 	public float maxSpeed = 5;
 	public float speed = 100f;
 	public float jumpPower = 300f;
 	float hInput = 0;
 
+	//bools
 	public bool grounded;
+	public bool canDoubleJump;
 
 	private Rigidbody2D rb2d;
 	private Animator anim;
@@ -38,8 +41,16 @@ public class Movement : MonoBehaviour
         }
 
         if(Input.GetButtonDown("Jump") && grounded){
-        	
+        	rb2d.AddForce(Vector2.up * jumpPower);
+        	canDoubleJump = true;
         }
+        else if(Input.GetButtonDown("Jump") && !grounded){
+    		if(canDoubleJump){
+    			canDoubleJump = false;
+    			rb2d.velocity = new Vector2(rb2d.velocity.x, 0);
+    			rb2d.AddForce(Vector2.up * jumpPower);
+    		}
+    	}
 
     }
 
@@ -67,6 +78,14 @@ public class Movement : MonoBehaviour
     public void Jump(){
     	if(grounded){
     		rb2d.AddForce(Vector2.up * jumpPower);
+    		canDoubleJump = true;
+    	}
+    	else{
+    		if(canDoubleJump){
+    			canDoubleJump = false;
+    			rb2d.velocity = new Vector2(rb2d.velocity.x, 0);
+    			rb2d.AddForce(Vector2.up * jumpPower);
+    		}
     	}
     }
 
