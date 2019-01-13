@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine;
 using UnityEditor;
 
 [CustomEditor(typeof(CameraFollow))]
 public class CameraFollowEditor : Editor
 {
-	public CameraFollow cf;
     public override void OnInspectorGUI(){
     	DrawDefaultInspector();
 
