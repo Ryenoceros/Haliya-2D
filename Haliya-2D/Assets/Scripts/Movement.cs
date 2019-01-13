@@ -129,8 +129,6 @@ public class Movement : MonoBehaviour
     void Die(){
 
     	//restart stage
-    	SceneManager.LoadScene(Kairaruman);
-
-
+    	SceneManager.LoadScene("DieStage11");
     }
 }
