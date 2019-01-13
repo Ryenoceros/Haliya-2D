@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Movement : MonoBehaviour
 {
@@ -9,6 +10,10 @@ public class Movement : MonoBehaviour
 	public float speed = 100f;
 	public float jumpPower = 300f;
 	float hInput = 0;
+
+	//stats
+	public int curHealth;
+	public int maxHealth = 100;
 
 	//bools
 	public bool grounded;
@@ -21,6 +26,8 @@ public class Movement : MonoBehaviour
     {
         rb2d = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
+
+        curHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -52,6 +59,13 @@ public class Movement : MonoBehaviour
     		}
     	}
 
+    	if (curHealth > maxHealth){
+    		curHealth = maxHealth;
+    	}
+
+    	if(curHealth <= 0){
+    		Die();
+    	}
     }
 
     void Move(float horizontalInput){
@@ -109,5 +123,14 @@ public class Movement : MonoBehaviour
 
     public void StartMoving(float horizontalInput){
     	hInput = horizontalInput;
+    }
+
+
+    void Die(){
+
+    	//restart stage
+    	SceneManager.LoadScene(Kairaruman);
+
+
     }
 }
