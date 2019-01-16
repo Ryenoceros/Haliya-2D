@@ -1,7 +1,33 @@
 fileFormatVersion: 2
 guid: f1d1ee5c309bc4e418da1c6e3d3e26cd
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Buring Catanda Attac spritesheet_0
+    21300002: Buring Catanda Attac spritesheet_1
+    21300004: Buring Catanda Attac spritesheet_2
+    21300006: Buring Catanda Attac spritesheet_3
+    21300008: Buring Catanda Attac spritesheet_4
+    21300010: Buring Catanda Attac spritesheet_5
+    21300012: Buring Catanda Attac spritesheet_6
+    21300014: Buring Catanda Attac spritesheet_7
+    21300016: Buring Catanda Attac spritesheet_8
+    21300018: Buring Catanda Attac spritesheet_9
+    21300020: Buring Catanda Attac spritesheet_10
+    21300022: Buring Catanda Attac spritesheet_11
+    21300024: Buring Catanda Attac spritesheet_12
+    21300026: Buring Catanda Attac spritesheet_13
+    21300028: Buring Catanda Attac spritesheet_14
+    21300030: Buring Catanda Attac spritesheet_15
+    21300032: Buring Catanda Attac spritesheet_16
+    21300034: Buring Catanda Attac spritesheet_17
+    21300036: Buring Catanda Attac spritesheet_18
+    21300038: Buring Catanda Attac spritesheet_19
+    21300040: Buring Catanda Attac spritesheet_20
+    21300042: Buring Catanda Attac spritesheet_21
+    21300044: Buring Catanda Attac spritesheet_22
+    21300046: Buring Catanda Attac spritesheet_23
+    21300048: Buring Catanda Attac spritesheet_24
+    21300050: Buring Catanda Attac spritesheet_25
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -31,7 +57,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -93,7 +119,527 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 73
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b44eb7c367949442a210f9e877e9c86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 19
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f0e5241e73ea845a0bebf72ae81eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 73
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458b36c22900de48abdcc19448cde84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 73
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52790604a39db945bb3104c5599864e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 73
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c502e2132a1dcba458f1d6fde0e48bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 73
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f5336d08d7160428fd12871648e4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 73
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d866b36f137ce47841d8e8dfda851e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 73
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b63d4af9d20f49aa825afd7c9575c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6482d28b5eeec48910df118869225d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 19
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a141707f4405b44b869f1ed356c84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 19
+        width: 132
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef08230b6f2452540835bfef55a99d68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16211579d2bf964aab55fe482c57c05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 19
+        width: 133
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58262a283a9c254daa38c5f5253b693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 19
+        width: 121
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e63d826b819254da7765947c7ce269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 17
+        width: 121
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc36a869b6d017740b1315178c9e127d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 46
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1a1eaac36cb214899171b1c3ea4761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 14
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7454b652231c541ae79998cb4dfde5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 14
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ba1d521d581a4d8318459bcfb7c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 14
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a55199ffe508f4cb252255183aa5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 14
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e934a524696bf49a36fcc5e8b6089e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d45cd2a4793ce46a9dab344419e380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 11
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4639b4238d611f040b4801c5896f64bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0169b094eaaf949b4961e3ab3ca4cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 11
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099bc32757018eb45af2c71fb69561a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0390fb2dcdf24da6b67d47cafa2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Attac spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 11
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71b527a901fdf4eb1a9789da31f098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

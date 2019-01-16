@@ -1,7 +1,13 @@
 fileFormatVersion: 2
 guid: 8868666363d85bc499792a06b674e1e9
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Buring Catanda Damaged spritesheet_0
+    21300002: Buring Catanda Damaged spritesheet_1
+    21300004: Buring Catanda Damaged spritesheet_2
+    21300006: Buring Catanda Damaged spritesheet_3
+    21300008: Buring Catanda Damaged spritesheet_4
+    21300010: Buring Catanda Damaged spritesheet_5
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -31,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -93,7 +99,127 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Buring Catanda Damaged spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 16
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b66c9f02f35ab48b05fb915546f1b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Damaged spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 16
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5a4c604fd6084e8bff73158f222bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Damaged spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 16
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c4acdecc487e4da099631d74673df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Damaged spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 16
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f78015b8b8e39249aafe721b14393ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Damaged spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 16
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226742a293325df4ab4682282ff719d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buring Catanda Damaged spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 16
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb2eaee6719a648ab55dd2ee0cb22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,17 +1,16 @@
 fileFormatVersion: 2
-guid: 40a2d0c69dba99e488c5bba3de74d2fd
+guid: 48b56cd785ba46447b6f215a94a82086
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Buring Catanda Death spritesheet_0
-    21300002: Buring Catanda Death spritesheet_1
-    21300004: Buring Catanda Death spritesheet_2
-    21300006: Buring Catanda Death spritesheet_3
-    21300008: Buring Catanda Death spritesheet_4
-    21300010: Buring Catanda Death spritesheet_5
-    21300012: Buring Catanda Death spritesheet_6
-    21300014: Buring Catanda Death spritesheet_7
-    21300016: Buring Catanda Death spritesheet_8
-    21300018: Buring Catanda Death spritesheet_9
+    21300000: Buring Catanda Death flip_0
+    21300002: Buring Catanda Death flip_1
+    21300004: Buring Catanda Death flip_2
+    21300006: Buring Catanda Death flip_3
+    21300008: Buring Catanda Death flip_4
+    21300010: Buring Catanda Death flip_5
+    21300012: Buring Catanda Death flip_6
+    21300014: Buring Catanda Death flip_7
+    21300016: Buring Catanda Death flip_8
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -105,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_0
+      name: Buring Catanda Death flip_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,13 +118,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8d321b33e1b20a4eb8dcecbcdefe9af
+      spriteID: c4fceeb278160254c8b12cc49f3b90c3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_1
+      name: Buring Catanda Death flip_1
       rect:
         serializedVersion: 2
         x: 255
@@ -139,13 +138,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de5d35c69cd11e34f9bcbdc6c13848b5
+      spriteID: ea35dba3abe2d974190c95adc7304c0a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_2
+      name: Buring Catanda Death flip_2
       rect:
         serializedVersion: 2
         x: 510
@@ -159,13 +158,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb65f090284ef1f499da85e5a94a4bfa
+      spriteID: 2d05282969a632a47b5326bf78fd8648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_3
+      name: Buring Catanda Death flip_3
       rect:
         serializedVersion: 2
         x: 765
@@ -179,13 +178,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 584eb715f6d242c4c973fd1f18d6304f
+      spriteID: 4dd52fe22e0d93948af3953b55570ba6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_4
+      name: Buring Catanda Death flip_4
       rect:
         serializedVersion: 2
         x: 1020
@@ -199,13 +198,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09734c7e3fb50c44bdd6da1268f4156
+      spriteID: b382583e7553aa14a86a4ee7dc260739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_5
+      name: Buring Catanda Death flip_5
       rect:
         serializedVersion: 2
         x: 1275
@@ -219,13 +218,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93c0339fef89ac0468fa377775b0fb61
+      spriteID: e72a244f7aff8f241b08ac10fd67ced9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_6
+      name: Buring Catanda Death flip_6
       rect:
         serializedVersion: 2
         x: 1530
@@ -239,13 +238,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d92037a0bad90f941814edbb52357350
+      spriteID: 459007e720e4b3740a1a0338451579bf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_7
+      name: Buring Catanda Death flip_7
       rect:
         serializedVersion: 2
         x: 1785
@@ -259,13 +258,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1775ce18b830efa478a9fe099db6d478
+      spriteID: 56ade66a8ea64f74eb544d65dd72db40
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_8
+      name: Buring Catanda Death flip_8
       rect:
         serializedVersion: 2
         x: 2040
@@ -279,27 +278,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f6cc37f7cfe14d488ec7376ebe771e3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Buring Catanda Death spritesheet_9
-      rect:
-        serializedVersion: 2
-        x: 2295
-        y: 0
-        width: 255
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f39fc8b63693cc48aeedeac7727f99a
+      spriteID: b54170ccef1df0d468745869fc7e4225
       vertices: []
       indices: 
       edges: []
@@ -307,7 +286,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 274eb2bca44b53f41aec61a6994dab63
+    spriteID: 29f95f3afd573da409db818d8c13a3f0
     vertices: []
     indices: 
     edges: []
