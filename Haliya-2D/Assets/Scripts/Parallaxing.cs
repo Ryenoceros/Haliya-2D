@@ -26,7 +26,7 @@ public class Parallaxing : MonoBehaviour
 		for(int i=0; i<transform.childCount;i++){
 			layers[i] = transform.GetChild(i);
 
-		leftIndex =0;
+		leftIndex = 0;
 		rightIndex = layers.Length-1;
 		} 
 	}
