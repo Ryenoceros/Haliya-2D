@@ -4,53 +4,52 @@ using UnityEngine;
 
 public class Parallaxing : MonoBehaviour
 {
-    public Transform[] backgrounds; //Array list of all the back and foregrounds to be parallaxed
-    private float[] parallaxScales;	//proportion of camera movement to move the backgrounds
-    public float smoothing = 1f;	//How smooth the parallax is going to be 
+	public float backgroundSize;
 
-    private Transform cam;			//reference to the main cam's transform
-    private Vector3 prevCamPos;		//pos of cam in prev frame
+	private Transform cameraTransform;
+	private Transform[] layers;
+	private float viewZone = 10;
+	private int leftIndex;
+	private int rightIndex;
 
-    //called before start
-    void Awake(){
-    	//set up camera the reference
-    	cam = Camera.main.transform;
-    }
+	private void Start(){
+		cameraTransform = Camera.main.transform;
+		layers = new Transform[transform.childCount];
+		for(int i=0; i<transform.childCount;i++){
+			layers[i] = transform.GetChild(i);
 
-    //Use this for initialization
-    void Start()
-    {	
-    	//the previous frame had the current frames camera position
-    	prevCamPos = cam.position;
+		leftIndex =0;
+		rightIndex = layers.Length-1;
+		} 
+	}
 
-    	//assigning corresponding parallaxScales
-    	parallaxScales = new float[backgrounds.Length];
-    	for (int i=0; i< backgrounds.Length; i++){
-    		parallaxScales[i] = backgrounds[i].position.z*-1;
-    	} 
-    }
+	private void update(){
+		if(cameraTransform.position.x < layers[leftIndex.transform.position.x + viewZone])
+			ScrollLeft();
 
-    // Update is called once per frame
-    void Update()
-    {
-        //for each background
-        for(int i = 0; i < backgrounds.Length; i++){
-        	//parallax is the opposite of the camera movement because the previous frame multiplied by the scale
-        	float parallax = (prevCamPos.x = cam.position.x) * parallaxScales[i];
-
-        	//set a target x position which is the current position plus the parallax
-        	float backgroundTargetPosX = backgrounds[i].position.x + parallax;
-
-        	//create a target position
-        	Vector3 backgroundTargetPos = new Vector3 (backgroundTargetPosX, backgrounds[i].position.y, backgrounds[i].position.z);
-        	
-
-        	backgrounds[i].position = Vector3.Lerp (backgrounds[i].position, backgroundTargetPos, smoothing * Time.deltaTime);
+		if(cameraTransform.position.x > layers[rightIndex.transform.position.x - viewZone])
+			ScrollLeft();
 
 
-        }
-    
-    	prevCamPos = cam.position;
-    }
+	}
+
+	private void ScrollLeft(){
+		int lastRight = rightIndex;
+		layers[rightIndex].position = Vector3.right * (layers[leftIndex].position.x-backgroundSize);
+		leftIndex = rightIndex;
+		rightIndex--;
+		if(rightIndex<0)
+			rightIndex=layers.Length-1;
+	}
+
+	private void ScrollRight(){
+		int lastLeft = leftIndex;
+		layers[leftIndex].position = Vector3.right * (layers[rightIndex].position.x+backgroundSize);
+		rightIndex = leftIndex;
+		leftIndex++;
+		if(leftIndex == layers.Length)
+			leftIndex=0;
+	}
+
 
 }
