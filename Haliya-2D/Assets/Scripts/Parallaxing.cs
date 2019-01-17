@@ -4,16 +4,24 @@ using UnityEngine;
 
 public class Parallaxing : MonoBehaviour
 {
+	public bool scrolling, parallax;
+
 	public float backgroundSize;
+	public float parallaxSpeed;
 
 	private Transform cameraTransform;
 	private Transform[] layers;
 	private float viewZone = 10;
 	private int leftIndex;
 	private int rightIndex;
+	private float lastCameraX;
+	
+
+
 
 	private void Start(){
 		cameraTransform = Camera.main.transform;
+		lastCameraX = cameraTransform.position.x;
 		layers = new Transform[transform.childCount];
 		for(int i=0; i<transform.childCount;i++){
 			layers[i] = transform.GetChild(i);
@@ -23,14 +31,21 @@ public class Parallaxing : MonoBehaviour
 		} 
 	}
 
-	private void update(){
-		if(cameraTransform.position.x < layers[leftIndex.transform.position.x + viewZone])
-			ScrollLeft();
+	private void Update(){
+		if(parallax){
+			float deltaX = cameraTransform.position.x - lastCameraX;
+			transform.position += Vector3.right * (deltaX * parallaxSpeed);
+		}
 
-		if(cameraTransform.position.x > layers[rightIndex.transform.position.x - viewZone])
-			ScrollLeft();
-
-
+			lastCameraX = cameraTransform.position.x;
+		
+		if(scrolling){
+			if(cameraTransform.position.x < (layers[leftIndex].transform.position.x + viewZone))
+				ScrollLeft();
+		
+			if(cameraTransform.position.x > (layers[rightIndex].transform.position.x - viewZone))
+				ScrollRight();
+		}
 	}
 
 	private void ScrollLeft(){
