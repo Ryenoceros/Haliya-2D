@@ -1,11 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerAttack : MonoBehaviour
 {
     private bool attacking = false;
-    private float attackTimer = 0;
+    private float attackTimer = 1;
     private float attackCd = 0.3f;
 
     public Collider2D attackTrigger;
@@ -18,12 +19,15 @@ public class PlayerAttack : MonoBehaviour
     }
 
     void Update(){
-    	if(Input.GetKeyDown("t") && !attacking){
+    	
+    }
+
+    public void Attack(){
+    	if(!attacking){
     		attacking = true;
     		attackTimer = attackCd;
 
     		attackTrigger.enabled = true;
-
     	}
 
     	if(attacking){
@@ -34,8 +38,10 @@ public class PlayerAttack : MonoBehaviour
     			attacking = false;
     			attackTrigger.enabled = false;
     		}
+    		anim.SetBool("Attacking", attacking);
     	}
 
-    	anim.SetBool("Attacking", attacking);
+    	
+
     }
 }

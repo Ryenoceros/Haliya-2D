@@ -39,6 +39,8 @@ public class Movement : MonoBehaviour
         anim.SetBool("Grounded",grounded);
         anim.SetFloat("Speed", Mathf.Abs(rb2d.velocity.x));
 
+        
+
         if(Input.GetAxis("Horizontal") < -0.1f){
         	transform.localScale = new Vector3(-1, 1, 1);
         }
@@ -142,6 +144,7 @@ public class Movement : MonoBehaviour
     public IEnumerator Knockback(float knockDur, float knockbackPwr, Vector3 knockbackDir ) {
 
     	float timer = 0;
+        rb2d.velocity = new Vector2(rb2d.velocity.x, 0);
 
     	while ( knockDur > timer){
 
