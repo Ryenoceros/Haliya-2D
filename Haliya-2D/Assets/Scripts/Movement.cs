@@ -11,7 +11,13 @@ public class Movement : MonoBehaviour
 	public float jumpPower = 300f;
 	float hInput = 0;
 
-	//stats
+	//dashvariables
+	public float dashDistance;
+	float dashTimer;
+	public float dashTime;
+	bool facingRight;
+
+	//stats	
 	public int curHealth;
 	public int maxHealth = 100;
 
@@ -68,6 +74,19 @@ public class Movement : MonoBehaviour
     	if(curHealth <= 0){
     		Die();
     	}
+
+    	//Dash code
+    	if(Input.GetKeyDown(KeyCode.LeftArrow)){
+    		anim.SetBool("Dashing", true);
+    	}
+    	else{
+    		anim.SetBool("Dashing", false);
+    	}
+
+    	if(transform.localScale.x == 1)
+    		facingRight = true;
+    	else
+    		facingRight = false;
     }
 
     void Move(float horizontalInput){
@@ -156,5 +175,13 @@ public class Movement : MonoBehaviour
     	yield return 0;
     }
 
+    public void Dash(){
+    	Vector3 dash;
+    	if (facingRight)
+    		dash = new Vector3(dashDistance, 0, 0);
+    	else
+    		dash = new Vector3(-dashDistance, 0, 0);
+    	transform.position+= dash;
+    }
 
 }
