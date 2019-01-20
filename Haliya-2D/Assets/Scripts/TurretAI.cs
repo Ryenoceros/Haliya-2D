@@ -5,14 +5,14 @@ using UnityEngine;
 public class TurretAI : MonoBehaviour{
 
 	//Integers
+	public int maxHealth = 100;
 	public int curHealth;
-	public int maxHealth;
 
 	//floats
 	public float distance;
 	public float wakeRange;
 	public float shootInterval;
-	public float bulletSpeed = 100;
+	public float bulletSpeed = 75;
 	public float bulletTimer;
 
 	//booleans
@@ -53,7 +53,14 @@ public class TurretAI : MonoBehaviour{
 			lookingRight = false;
 		}
 
+		if (curHealth > maxHealth){
+    		curHealth = maxHealth;
+    	}
 
+		if(curHealth <= 0){
+			Destroy(gameObject);
+			Debug.Log("death");
+		}
 
 	}
 
@@ -112,6 +119,12 @@ public class TurretAI : MonoBehaviour{
 
 		}
 
+	}
+
+	public void Damage(int damage){
+		Debug.Log(damage);
+		curHealth -= damage;
+		//gameObject.GetComponent<Animation>().Play("Player_RedFlash");
 	}
 
 
