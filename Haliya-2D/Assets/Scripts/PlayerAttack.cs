@@ -20,10 +20,7 @@ public class PlayerAttack : MonoBehaviour
 
     void Update(){
     	if(Input.GetButtonDown("Fire1") && !attacking){
-    		attacking = true;
-    		attackTimer = attackCd;
-
-    		attackTrigger.enabled = true;
+    		Attack();
     	}
 
     	if(attacking){
@@ -38,8 +35,12 @@ public class PlayerAttack : MonoBehaviour
     		anim.SetBool("Attacking", attacking);
     	}
     }
-
     public void Attack(){
+		attacking = true;
+		attackTimer = attackCd;
 
+		attackTrigger.enabled = true;
     }
+
+    
 }
