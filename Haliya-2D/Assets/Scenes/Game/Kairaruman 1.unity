@@ -5258,7 +5258,7 @@ PrefabInstance:
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: bulletSpeed
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
@@ -5270,35 +5270,40 @@ PrefabInstance:
       propertyPath: maxHealth
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
+        type: 3}
+      propertyPath: awake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 979706399982443173, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[0].x
-      value: -10.044551
+      value: -10.09082
       objectReference: {fileID: 0}
     - target: {fileID: 979706399982443173, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[0].y
-      value: 2.7609668
+      value: 2.8329763
       objectReference: {fileID: 0}
     - target: {fileID: 979706399982443173, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[1].x
-      value: -10.017569
+      value: -9.924879
       objectReference: {fileID: 0}
     - target: {fileID: 979706399982443173, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[1].y
-      value: -0.35774708
+      value: -1.4381201
       objectReference: {fileID: 0}
     - target: {fileID: 979706399982443173, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[2].x
-      value: -9.994266
+      value: -9.947916
       objectReference: {fileID: 0}
     - target: {fileID: 979706399982443173, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[2].y
-      value: -2.2607083
+      value: -1.3963826
       objectReference: {fileID: 0}
     - target: {fileID: 979706399982443173, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
