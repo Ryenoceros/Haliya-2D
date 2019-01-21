@@ -25,8 +25,12 @@ public class Movement : MonoBehaviour
 	public bool grounded;
 	public bool canDoubleJump;
 
+    //References
 	private Rigidbody2D rb2d;
 	private Animator anim;
+    private gameMaster gm;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -34,6 +38,8 @@ public class Movement : MonoBehaviour
         anim = gameObject.GetComponent<Animator>();
 
         curHealth = maxHealth;
+
+        gm = GameObject.FindGameObjectWithTag("GameMaster").GetComponent<gameMaster>();
     }
 
     // Update is called once per frame
@@ -182,6 +188,13 @@ public class Movement : MonoBehaviour
     	else
     		dash = new Vector3(-dashDistance, 0, 0);
     	transform.position+= dash;
+    }
+
+    void OnTriggerEnter2D(Collider2D col){
+        if (col.CompareTag("Coin")){
+            Destroy(col.gameObject);
+            gm.points += 1;
+        }
     }
 
 }
