@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class scrollingBG : MonoBehaviour
 {	
+	public bool scrolling, parallax;
+
 	public float backgroundSize;
 
 	private Transform cameraTransform;
@@ -38,7 +40,7 @@ public class scrollingBG : MonoBehaviour
     	layers[leftIndex].position = Vector3.right * (layers[rightIndex].position.x + backgroundSize);
     	rightIndex = leftIndex;
     	leftIndex++;
-    	if(leftIndex == 0)
+    	if(leftIndex == layers.Length)
     		leftIndex = 0;
         
     }
@@ -46,6 +48,10 @@ public class scrollingBG : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    	
+		if(cameraTransform.position.x < (layers[leftIndex.transform.position.x] + viewZone))
+			ScrollLeft();
+	
+		if(cameraTransform.position.x > (layers[rightIndex.transform.position.x] - viewZone))
+			ScrollRight();
     }
 }
