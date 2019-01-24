@@ -48,10 +48,14 @@ public class scrollingBG : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		if(cameraTransform.position.x < (layers[leftIndex.transform.position.x] + viewZone))
+    	if(parallax){
+
+    	}
+    	
+		if(cameraTransform.position.x < (layers[leftIndex].transform.position.x + viewZone))
 			ScrollLeft();
 	
-		if(cameraTransform.position.x > (layers[rightIndex.transform.position.x] - viewZone))
+		if(cameraTransform.position.x > (layers[rightIndex].transform.position.x - viewZone))
 			ScrollRight();
     }
 }
