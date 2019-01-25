@@ -53,11 +53,12 @@ public class TurretAI : MonoBehaviour{
 			lookingRight = false;
 		}
 
-		if (curHealth > maxHealth){
-    		curHealth = maxHealth;
-    	}
+		//if (curHealth > maxHealth){
+    	//	curHealth = maxHealth;
+    	//}
 
-		if(curHealth <= 0){
+		if(curHealth <= 0)
+		{
 			Destroy(gameObject);
 			Debug.Log("death");
 		}

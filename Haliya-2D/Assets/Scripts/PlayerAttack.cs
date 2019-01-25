@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class PlayerAttack : MonoBehaviour
-{
-    private bool attacking = false;
+public class playerAttack : MonoBehaviour {
+
+	private bool attacking = false;
+
     private float attackTimer = 1;
     private float attackCd = 0.3f;
 
@@ -13,34 +13,40 @@ public class PlayerAttack : MonoBehaviour
 
     private Animator anim;
 
-    void Awake(){
+    void Awake()
+    {
     	anim = gameObject.GetComponent<Animator>();
     	attackTrigger.enabled = false;
     }
 
-    void Update(){
-    	if(Input.GetButtonDown("Fire1") && !attacking){
-    		Attack();
+    void Update()
+    {
+    	if(Input.GetKeyDown("f") && !attacking)
+    	{
+
+    		attacking = true;
+    		attackTimer = attackCd;
+
+    		attackTrigger.enabled = true;
+    		
     	}
 
-    	if(attacking){
-    		if(attackTimer > 0){
+    	if (attacking)
+    	{
+    		if(attackTimer > 0)
+    		{
     			attackTimer -= Time.deltaTime;
     		}
-    		else{
+    		else
+    		{
     			attacking = false;
     			attackTrigger.enabled = false;
     		}
 
-    		anim.SetBool("Attacking", attacking);
     	}
-    }
-    public void Attack(){
-		attacking = true;
-		attackTimer = attackCd;
 
-		attackTrigger.enabled = true;
-    }
 
-    
+    	anim.SetBool("Attacking", attacking);
+    }
+ 
 }

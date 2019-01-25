@@ -2266,6 +2266,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 648890384}
   m_CullTransparentMesh: 0
+--- !u!1 &680772845 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 979706400301033009, guid: 50549ca8c49d5c848bc290ac87306552,
+    type: 3}
+  m_PrefabInstance: {fileID: 979706400853625470}
+  m_PrefabAsset: {fileID: 0}
+--- !u!111 &680772849
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 680772845}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 4d85ffcdbfff7ce428800a8ad1b6d021, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 4d85ffcdbfff7ce428800a8ad1b6d021, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &746562215
 GameObject:
   m_ObjectHideFlags: 0
@@ -3367,7 +3389,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1277002774}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -4054,6 +4076,7 @@ GameObject:
   - component: {fileID: 1706063801}
   - component: {fileID: 1706063800}
   - component: {fileID: 1706063799}
+  - component: {fileID: 1706063803}
   m_Layer: 0
   m_Name: Coin (1)
   m_TagString: Coin
@@ -4158,6 +4181,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1706063803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706063798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73ca4c743a472114aa6a72349c3d69f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dmg: 20
 --- !u!1 &1719558826
 GameObject:
   m_ObjectHideFlags: 0
@@ -4478,7 +4514,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 1987967727}
+        - m_Target: {fileID: 0}
           m_MethodName: Attack
           m_Mode: 1
           m_Arguments:
@@ -4517,7 +4553,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1796656120}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -436.5041, y: -237.23228, z: 2.01}
+  m_LocalPosition: {x: -436.5041, y: -237.23228, z: 11.18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2100570489}
@@ -4538,6 +4574,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b128c1dc50b31e9439481bb2072ae43a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scrolling: 0
+  parallax: 0
   backgroundSize: 24.5
 --- !u!1 &1838345019
 GameObject:
@@ -4657,11 +4695,11 @@ GameObject:
   - component: {fileID: 1987967719}
   - component: {fileID: 1987967722}
   - component: {fileID: 1987967721}
-  - component: {fileID: 1987967727}
   - component: {fileID: 1987967724}
   - component: {fileID: 1987967723}
   - component: {fileID: 1987967725}
   - component: {fileID: 1987967726}
+  - component: {fileID: 1987967727}
   m_Layer: 0
   m_Name: Haliya
   m_TagString: Player
@@ -5390,7 +5428,7 @@ PrefabInstance:
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: shootInterval
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
@@ -5405,17 +5443,17 @@ PrefabInstance:
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: bulletSpeed
-      value: 10
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: curHealth
-      value: 100
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
       propertyPath: maxHealth
-      value: 100
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 979706400301033005, guid: 50549ca8c49d5c848bc290ac87306552,
         type: 3}
