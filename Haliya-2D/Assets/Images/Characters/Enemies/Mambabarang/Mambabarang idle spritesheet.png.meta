@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 703904049b5953c4aa9c0d141af4b3a9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mambabarang idle spritesheet_0
+    21300002: Mambabarang idle spritesheet_1
+    21300004: Mambabarang idle spritesheet_2
+    21300006: Mambabarang idle spritesheet_3
+    21300008: Mambabarang idle spritesheet_4
+    21300010: Mambabarang idle spritesheet_5
+    21300012: Mambabarang idle spritesheet_6
+    21300014: Mambabarang idle spritesheet_7
+    21300016: Mambabarang idle spritesheet_8
+    21300018: Mambabarang idle spritesheet_9
+    21300020: Mambabarang idle spritesheet_10
+    21300022: Mambabarang idle spritesheet_11
+    21300024: Mambabarang idle spritesheet_12
+    21300026: Mambabarang idle spritesheet_13
+    21300028: Mambabarang idle spritesheet_14
+    21300030: Mambabarang idle spritesheet_15
+    21300032: Mambabarang idle spritesheet_16
+    21300034: Mambabarang idle spritesheet_17
+    21300036: Mambabarang idle spritesheet_18
+    21300038: Mambabarang idle spritesheet_19
+    21300040: Mambabarang idle spritesheet_20
+    21300042: Mambabarang idle spritesheet_21
+    21300044: Mambabarang idle spritesheet_22
+    21300046: Mambabarang idle spritesheet_23
+    21300048: Mambabarang idle spritesheet_24
+    21300050: Mambabarang idle spritesheet_25
+    21300052: Mambabarang idle spritesheet_26
+    21300054: Mambabarang idle spritesheet_27
+    21300056: Mambabarang idle spritesheet_28
+    21300058: Mambabarang idle spritesheet_29
+    21300060: Mambabarang idle spritesheet_30
+    21300062: Mambabarang idle spritesheet_31
+    21300064: Mambabarang idle spritesheet_32
+    21300066: Mambabarang idle spritesheet_33
+    21300068: Mambabarang idle spritesheet_34
+    21300070: Mambabarang idle spritesheet_35
+    21300072: Mambabarang idle spritesheet_36
+    21300074: Mambabarang idle spritesheet_37
+    21300076: Mambabarang idle spritesheet_38
+    21300078: Mambabarang idle spritesheet_39
+    21300080: Mambabarang idle spritesheet_40
+    21300082: Mambabarang idle spritesheet_41
+    21300084: Mambabarang idle spritesheet_42
+    21300086: Mambabarang idle spritesheet_43
+    21300088: Mambabarang idle spritesheet_44
+    21300090: Mambabarang idle spritesheet_45
+    21300092: Mambabarang idle spritesheet_46
+    21300094: Mambabarang idle spritesheet_47
+    21300096: Mambabarang idle spritesheet_48
+    21300098: Mambabarang idle spritesheet_49
+    21300100: Mambabarang idle spritesheet_50
+    21300102: Mambabarang idle spritesheet_51
+    21300104: Mambabarang idle spritesheet_52
+    21300106: Mambabarang idle spritesheet_53
+    21300108: Mambabarang idle spritesheet_54
+    21300110: Mambabarang idle spritesheet_55
+    21300112: Mambabarang idle spritesheet_56
+    21300114: Mambabarang idle spritesheet_57
+    21300116: Mambabarang idle spritesheet_58
+    21300118: Mambabarang idle spritesheet_59
+    21300120: Mambabarang idle spritesheet_60
+    21300122: Mambabarang idle spritesheet_61
+    21300124: Mambabarang idle spritesheet_62
+    21300126: Mambabarang idle spritesheet_63
+    21300128: Mambabarang idle spritesheet_64
+    21300130: Mambabarang idle spritesheet_65
+    21300132: Mambabarang idle spritesheet_66
+    21300134: Mambabarang idle spritesheet_67
+    21300136: Mambabarang idle spritesheet_68
+    21300138: Mambabarang idle spritesheet_69
+    21300140: Mambabarang idle spritesheet_70
+    21300142: Mambabarang idle spritesheet_71
+    21300144: Mambabarang idle spritesheet_72
+    21300146: Mambabarang idle spritesheet_73
+    21300148: Mambabarang idle spritesheet_74
+    21300150: Mambabarang idle spritesheet_75
+    21300152: Mambabarang idle spritesheet_76
+    21300154: Mambabarang idle spritesheet_77
+    21300156: Mambabarang idle spritesheet_78
+    21300158: Mambabarang idle spritesheet_79
+    21300160: Mambabarang idle spritesheet_80
+    21300162: Mambabarang idle spritesheet_81
+    21300164: Mambabarang idle spritesheet_82
+    21300166: Mambabarang idle spritesheet_83
+    21300168: Mambabarang idle spritesheet_84
+    21300170: Mambabarang idle spritesheet_85
+    21300172: Mambabarang idle spritesheet_86
+    21300174: Mambabarang idle spritesheet_87
+    21300176: Mambabarang idle spritesheet_88
+    21300178: Mambabarang idle spritesheet_89
+    21300180: Mambabarang idle spritesheet_90
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e688ebbc95bab9646bbd70a498518d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 85
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a619a01592402f4495159ec3685393c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15194f0d58b5dd4a81b10b17465a372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 87
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a5c61b45a8b042af82026d5f5e87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 83
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac05cc579170b3547a76b31589f74010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 85
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620180776ecd5ec4384769eb52873d82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 85
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935620d7fb343d74399d8ed772099813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 87
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d34772c0a1fe46917c47897624fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea3be1b04f36c448c68579b30101c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 85
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31ffbdd854b92348a1ea5e6855cdb03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d36a0b07f484f944b8e93e02639ade1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 87
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c229a8ccb1fec42be2ad6be9053f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 83
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4845e015f7abfb4880f4c24466991d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 85
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc1a4013c7d7c479ba0e8c13ab1728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 85
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55405b12674ed4d42bb79bd1b08316ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 87
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf45ad82deb6b346abe6c97b6a0a837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324e99765667db48b522f9ca8bb7d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f22263d335a2479e0068bc3c4c28d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 81
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303bdced30f5f2342a3487a5d7c1b85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 81
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a8b701c018934386a5cda17379d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 18
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2f4f4e2ce128448881425d2e50e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ef0a2fda2b0240ad702a7296474c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 81
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99038d25252a674d8d9a90083966ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8819f80d5b5ffc4782a84125b8593e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572a4ab604ce494886c1d47ad5c370a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 83
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a99c1e61ee21740ab5a9c348b7f48e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 79
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c88e518fd2164dac93c09c0a3cbce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 81
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6916091691938d43b5ed39dd1dc54e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7f4e423d0f6f498dc2e7cb8101302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 18
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49542f7e944b7eb4fa59ac4e5efc9a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 18
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179428c7029b9314cbf2e17629b80f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645866b013299eb4c9f857e46f065988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 83
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82d5ee447e66841b74dbd2003ebb6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c60299b6f7ca74f9d1be610168ea42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 81
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b952105a515c8c144a9819708bb6ce52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 81
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad75ef88530cc0b4fbf59ee60711b7bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 81
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7430d11c970bbd4ba73e063dc42cefd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 18
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae28bb19a5da44bbece212c73af1d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b161e0b2cbfef47b9933997bc0c019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 81
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83f112b14c5364b85a7be017cebcdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 83
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b53455885bae9742aba652a9c4e0fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 79
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e685751bbc6d4a998b4e529b3468c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858230ec8f0341544901f6500efbff8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 83
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c79a4e2820a1a428d1b7c546c5002a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 79
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae810e92384605841945055023be5989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 81
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d5b4d9b9708484d8eecc21fbe3097a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116c5eaea6f9aea408a636898964f735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63720b142479947a8da8c0bbf537ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 83
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7c8613fafed34dadc5d1e0e02d24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 79
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb81409f8648ee498dd2526c0566ee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 71
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f7a06f98e56b341b00e732275c2a9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 75
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e2bfc9029f34458a814cb054da7eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 18
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b326b9d64b4d44d9de41375a73c148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 18
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf03c2fa9bacd41a18af9d91e90215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 18
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10b569a83e60048abc7780b1fa851a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 79
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a70b6825e48b1498f2ac549cf856d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 18
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d5eabecd8555a42adfe7b90a5e863e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 18
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905718077b04e854ba1663b6addfb98b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 18
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40235f991c482254590bc517da2b5775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 18
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d7b8316543706499fe1541165a236d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 18
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea50f99293dd5d74d96732398f7f62ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 18
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae10e585ddb4d24780b5f6eec749dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 79
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5be10cc6e1794eb3b7a9f8308b350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 71
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193a2c915f48a04d8aa17c7038674ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 75
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e013a51c7f0a094b97ff3532935ff61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 18
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92cbbefcf781944d8d092ea8234a96f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 79
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af39305b4bc7f49bcfbaf2566e3887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 18
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e2eda6f84d23746bd82f8880d2e5b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 75
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215a26fb51e9a34aad939c57a7e372e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 18
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a4c75d96dd89545bdb045fdccf3603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 18
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0684616085d8e1b499adec0ed17672ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 75
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb1ee431fa14f42879d670b354fc1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 18
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295d3ee98e6a968478c82aa9ea79ea74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 65
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb735498e553454d95c03b1d365bb82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 65
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59d8c342fc799439a0681439784f5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8ece6cb3986a4084bba9741a16a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 55
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016cf440d86f1c74d96e6a5b33a1ae88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 55
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b092ebd7bcf7fe14ea7b46b09f3b866e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mambabarang idle spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 55
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22afed5ac8ba551488bdd4e7a82dc5ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 570f03cc9719d084dab40d5f6a72fa45
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

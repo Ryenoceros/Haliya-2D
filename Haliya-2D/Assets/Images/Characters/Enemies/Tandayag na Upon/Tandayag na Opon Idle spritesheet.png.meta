@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 43ecf99014dfeec4aa150eb9e2bc4544
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tandayag na Opon Idle spritesheet_0
+    21300002: Tandayag na Opon Idle spritesheet_1
+    21300004: Tandayag na Opon Idle spritesheet_2
+    21300006: Tandayag na Opon Idle spritesheet_3
+    21300008: Tandayag na Opon Idle spritesheet_4
+    21300010: Tandayag na Opon Idle spritesheet_5
+    21300012: Tandayag na Opon Idle spritesheet_6
+    21300014: Tandayag na Opon Idle spritesheet_7
+    21300016: Tandayag na Opon Idle spritesheet_8
+    21300018: Tandayag na Opon Idle spritesheet_9
+    21300020: Tandayag na Opon Idle spritesheet_10
+    21300022: Tandayag na Opon Idle spritesheet_11
+    21300024: Tandayag na Opon Idle spritesheet_12
+    21300026: Tandayag na Opon Idle spritesheet_13
+    21300028: Tandayag na Opon Idle spritesheet_14
+    21300030: Tandayag na Opon Idle spritesheet_15
+    21300032: Tandayag na Opon Idle spritesheet_16
+    21300034: Tandayag na Opon Idle spritesheet_17
+    21300036: Tandayag na Opon Idle spritesheet_18
+    21300038: Tandayag na Opon Idle spritesheet_19
+    21300040: Tandayag na Opon Idle spritesheet_20
+    21300042: Tandayag na Opon Idle spritesheet_21
+    21300044: Tandayag na Opon Idle spritesheet_22
+    21300046: Tandayag na Opon Idle spritesheet_23
+    21300048: Tandayag na Opon Idle spritesheet_24
+    21300050: Tandayag na Opon Idle spritesheet_25
+    21300052: Tandayag na Opon Idle spritesheet_26
+    21300054: Tandayag na Opon Idle spritesheet_27
+    21300056: Tandayag na Opon Idle spritesheet_28
+    21300058: Tandayag na Opon Idle spritesheet_29
+    21300060: Tandayag na Opon Idle spritesheet_30
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 411
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efdfdac0f85f0e48a8b187fce82d8e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 102
+        width: 387
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa214edd5a3448148bc60cc688079639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 102
+        width: 393
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750089cd4cba2bc4986d40e0d43c3f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 96
+        width: 417
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ce42cf1c7f1a4d96a4c4848fd15f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 96
+        width: 417
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab8d47e04ab13441bf4c842b6d40de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 84
+        width: 441
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4e8bbe2da19547ae2d51f82145c4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 78
+        width: 453
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd925172a3c66c468288f44ecee9b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 78
+        width: 429
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a24972ee23e5e44b29b526466fbca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4897
+        y: 66
+        width: 411
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b4d9f0262b5047b036e437d353270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 132
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f104c1f9d8811244a0889ba21af1532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 60
+        width: 387
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af08051054e009449dad4e1137e898b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 6112
+        y: 144
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ad1ebae267554d962a7a5707c0af2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 54
+        width: 399
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d47e8d518146468077c5e6b45efa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6725
+        y: 144
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77846c84455a4ea4e870cf134b6c3899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6779
+        y: 48
+        width: 405
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6807fb9677f7544eae848585504dffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 7393
+        y: 102
+        width: 411
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b5c99ac16a5542a5b3333cad667a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 102
+        width: 423
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c77297435f63419ab96f07c83fb23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 8608
+        y: 102
+        width: 411
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26cace3a67c3f44194ce9a8fcf1619a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 102
+        width: 393
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9959354e20ac4783d0a311c506d0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 9829
+        y: 102
+        width: 393
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eda3ddf11d0e0419dba513b212bf55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 10443
+        y: 102
+        width: 387
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d84f4f59674cf4e8799cada51bc86d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 11050
+        y: 102
+        width: 399
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8145645afab564280fcdd3d2053599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 11658
+        y: 96
+        width: 411
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e04eccfe3ac924b9be8478a9bc9b80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 108
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d0c57a260a4be4b90e6db6f64c3e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 78
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e645bec38e169469c0a3cfe7ea62a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 6112
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea3840465a036341a97faaaadd6ab1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 84
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b5ea85b3437934390c70ba2ae49d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 7470
+        y: 66
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c9b72295a49c4aa7924ad3e431c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 54
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4c7fb514accf44b819e2816124956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 48
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67547e286c02894691b1aac109d7526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tandayag na Opon Idle spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 7452
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00255961fbe462f46b6c18ac15256323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ed358d0f4a2546c46971620b3379110f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

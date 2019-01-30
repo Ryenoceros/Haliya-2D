@@ -1,0 +1,1811 @@
+fileFormatVersion: 2
+guid: 6cc5d3e556920624ea04872ecf0c3a11
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Asog Attack spritesheet_0
+    21300002: Asog Attack spritesheet_1
+    21300004: Asog Attack spritesheet_2
+    21300006: Asog Attack spritesheet_3
+    21300008: Asog Attack spritesheet_4
+    21300010: Asog Attack spritesheet_5
+    21300012: Asog Attack spritesheet_6
+    21300014: Asog Attack spritesheet_7
+    21300016: Asog Attack spritesheet_8
+    21300018: Asog Attack spritesheet_9
+    21300020: Asog Attack spritesheet_10
+    21300022: Asog Attack spritesheet_11
+    21300024: Asog Attack spritesheet_12
+    21300026: Asog Attack spritesheet_13
+    21300028: Asog Attack spritesheet_14
+    21300030: Asog Attack spritesheet_15
+    21300032: Asog Attack spritesheet_16
+    21300034: Asog Attack spritesheet_17
+    21300036: Asog Attack spritesheet_18
+    21300038: Asog Attack spritesheet_19
+    21300040: Asog Attack spritesheet_20
+    21300042: Asog Attack spritesheet_21
+    21300044: Asog Attack spritesheet_22
+    21300046: Asog Attack spritesheet_23
+    21300048: Asog Attack spritesheet_24
+    21300050: Asog Attack spritesheet_25
+    21300052: Asog Attack spritesheet_26
+    21300054: Asog Attack spritesheet_27
+    21300056: Asog Attack spritesheet_28
+    21300058: Asog Attack spritesheet_29
+    21300060: Asog Attack spritesheet_30
+    21300062: Asog Attack spritesheet_31
+    21300064: Asog Attack spritesheet_32
+    21300066: Asog Attack spritesheet_33
+    21300068: Asog Attack spritesheet_34
+    21300070: Asog Attack spritesheet_35
+    21300072: Asog Attack spritesheet_36
+    21300074: Asog Attack spritesheet_37
+    21300076: Asog Attack spritesheet_38
+    21300078: Asog Attack spritesheet_39
+    21300080: Asog Attack spritesheet_40
+    21300082: Asog Attack spritesheet_41
+    21300084: Asog Attack spritesheet_42
+    21300086: Asog Attack spritesheet_43
+    21300088: Asog Attack spritesheet_44
+    21300090: Asog Attack spritesheet_45
+    21300092: Asog Attack spritesheet_46
+    21300094: Asog Attack spritesheet_47
+    21300096: Asog Attack spritesheet_48
+    21300098: Asog Attack spritesheet_49
+    21300100: Asog Attack spritesheet_50
+    21300102: Asog Attack spritesheet_51
+    21300104: Asog Attack spritesheet_52
+    21300106: Asog Attack spritesheet_53
+    21300108: Asog Attack spritesheet_54
+    21300110: Asog Attack spritesheet_55
+    21300112: Asog Attack spritesheet_56
+    21300114: Asog Attack spritesheet_57
+    21300116: Asog Attack spritesheet_58
+    21300118: Asog Attack spritesheet_59
+    21300120: Asog Attack spritesheet_60
+    21300122: Asog Attack spritesheet_61
+    21300124: Asog Attack spritesheet_62
+    21300126: Asog Attack spritesheet_63
+    21300128: Asog Attack spritesheet_64
+    21300130: Asog Attack spritesheet_65
+    21300132: Asog Attack spritesheet_66
+    21300134: Asog Attack spritesheet_67
+    21300136: Asog Attack spritesheet_68
+    21300138: Asog Attack spritesheet_69
+    21300140: Asog Attack spritesheet_70
+    21300142: Asog Attack spritesheet_71
+    21300144: Asog Attack spritesheet_72
+    21300146: Asog Attack spritesheet_73
+    21300148: Asog Attack spritesheet_74
+    21300150: Asog Attack spritesheet_75
+    21300152: Asog Attack spritesheet_76
+    21300154: Asog Attack spritesheet_77
+    21300156: Asog Attack spritesheet_78
+    21300158: Asog Attack spritesheet_79
+    21300160: Asog Attack spritesheet_80
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1656
+        width: 200
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40530aa81dc40e64ea185d46cea2189c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1656
+        width: 196
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c1a7a80d49b06468d5c1c47ec72289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1728
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e2f31836aac614dafddb403c14ffbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1656
+        width: 190
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6770197f69d0f944a68974dcc9fde72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1656
+        width: 190
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c202727a759ec8f4cb481c0c0bf745d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1650
+        width: 190
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa50a23152922f4ebe128da30d47a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1650
+        width: 193
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ec4924d10a0045939432361aecf6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1691
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0b5ee36afa984db1323d7a8c87822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1692
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f499c77c905eb5e498ee09ebb0d932ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1684
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277311f321cee0b43b111cc10c947520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1688
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9c01c15682a9c41a763944f2e44797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1678
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e8499b3a553cc40af32af7e588e1c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1148
+        width: 200
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97508fc2499bb7947b121fbacb62d498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1148
+        width: 204
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68652016daa9364cb1c587da360a990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1145
+        width: 210
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f06271c6dce4f459a2d9537cfea24f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1184
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b6c66fcf5f78c429c1b321e4646c8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1150
+        width: 200
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ccc2ad78fc17e4883d915fc7a9131e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1150
+        width: 216
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa56745b443ee4e81d25e379520269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1150
+        width: 225
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e190085f27709546b818afbd9b2353a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 656
+        width: 207
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b97d75919583b459503a31ed15336f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 656
+        width: 186
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd85f6fcad33c749926d1dd87371d5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 867
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c8380b51929274993f212018d40662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 861
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d08b68ff25a584d9ff2d54740adefa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 656
+        width: 153
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a96d0400a57d94caee5d6e96519f40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 850
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e329e53e1b1e0f40a4e1b4ccf7a4442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 828
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eed9f38da23f943b2b011c24b91fab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 838
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd9eb3a7bd5d749b04ce0367797bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 806
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702865c1b3c29cb47a16b0d18f13563b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 656
+        width: 216
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd9d2d35b45ca146856d8b9d4136638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 656
+        width: 235
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236555e83d9c1240b61fc532b44d8e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 786
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed84b5e3011d9a488ac73105175dab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 780
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7880b9e1e32d69049b9aa3c3bee11e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 775
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5876e44f9f296564e9365cce4eeb63fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 650
+        width: 222
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261381f2e6c76e2428320a8417dacf6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 759
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d5b8808f041b43a65c403fb2c1366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 756
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f09f7e1071d26142bee66b619d46f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 763
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202da5772f11b8542a2f2b95039cf4e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 744
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67de199809d88fc4db65874ac02574d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 750
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599cd57ecca6e674781c840d5a778f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 744
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded47a7e4908fca4cb51c4877ed9c6d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 747
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76476b3611e3a684a9d15cd316d5d68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 734
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39575b9bfb8cf45bf37b4f49303071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 741
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27423b1e892b09843bf812a8812a1470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 741
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b85045004d004428b7400ca63ba1f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 728
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baad6c3111f8fbf41942fc6a8fd3797f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 717
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a1f258a9f084469fea58253cbc3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 714
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b3ecbc2254db4a8db44f407879bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 720
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7375ce098cf7bf4e93785c2cdb47f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 705
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631195573105b4438523aed80532d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 711
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813561d417397c49b0acdfc63fb54ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 708
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb29e0c3e29df4b8c6b5d351b3c4cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 692
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec2c64cc19a1cd488cd80dd42dddcda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 694
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a33b9194013b8468a5b9dba6c47482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 700
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d089664a6308449f8f0a2f6db6425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 695
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65115a5facc474ba8d0256db8099c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9aadb2277ee7f40aaaef688c651672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 688
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779825f18d7492429969ca866a65d6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 692
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15ff4313a775740b57c2a659ae004f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 675
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d04dc509b128014798fed0fff909c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 678
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819bea002e1aae94c8621fca045eecbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 388
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a6ab61a3667545aef8098521a0638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 156
+        width: 278
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468e8031259f4c4696803ff28cc0c6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 361
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ced1b40741268743a7b881b35b2d8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 367
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d996e6ca7dee42a1428bc2849cd50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 156
+        width: 155
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0f883250608d844b3c07096a88d4bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 355
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6cfe985b4050449bc211f63fd2c53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 334
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea6b95bc528e3149b2b975adf6bb88a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 338
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce07790934bbc384f90fb531493182cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 331
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aeebf83924aee4b8c2ea67cac8fa22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 302
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682d6988a3b5e74498134e862519cd05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 309
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa47ce86cf9d8b4d8fc16efba734c7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 273
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47195b18090be1346bad0221f675949e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 280
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcec0cab8ad75740a41338e48ff22b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 263
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1803c6c92dbfff42b25841193e41dad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 256
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8e3c92c8fd194eb0d8e325ba5e3bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 150
+        width: 213
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fff5d7acfff264d882d509469c696f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 238
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72c9f453c668c4d9d8e6b3366707de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 219
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea621455c55cf46bc49e57e40af59b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 223
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb34841c1f4b904d957bb5f4d1616ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 188
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425a7b843568a04790f2fe84ad37dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asog Attack spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 169
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff63c1de3e46634c9f7425779b7f677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a75d9793528f214fa10855a4d6bae5a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
